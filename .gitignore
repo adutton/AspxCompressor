@@ -1,0 +1,8 @@
+bin/
+obj/
+.svn/
+TestResults/
+*.csproj.user
+*.suo
+*.testrunconfig
+vssver2.scc

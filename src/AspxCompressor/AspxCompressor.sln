@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspxCompressor", "AspxCompressor.csproj", "{DFE88CAE-B9BC-4458-AB22-6275946CFD9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspxCompressor.Tests", "..\AspxCompressor.Tests\AspxCompressor.Tests.csproj", "{051E783C-8E88-48CD-87BA-86FF51F7C55D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E5736173-3EC3-4EC9-A8DE-FA5FB2147341}"
+	ProjectSection(SolutionItems) = preProject
+		AspxCompressor.vsmdi = AspxCompressor.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = AspxCompressor.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE88CAE-B9BC-4458-AB22-6275946CFD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE88CAE-B9BC-4458-AB22-6275946CFD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE88CAE-B9BC-4458-AB22-6275946CFD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE88CAE-B9BC-4458-AB22-6275946CFD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051E783C-8E88-48CD-87BA-86FF51F7C55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051E783C-8E88-48CD-87BA-86FF51F7C55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051E783C-8E88-48CD-87BA-86FF51F7C55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051E783C-8E88-48CD-87BA-86FF51F7C55D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
